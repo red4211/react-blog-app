@@ -31,3 +31,75 @@
     transform: rotate(360deg);
   }
 }
+
+.App{
+  width: 1000px;
+  margin: 0 auto;
+  padding-top: 20px;
+}
+
+.post{
+  margin-bottom: 15px;
+
+  font-size: 18px;
+  text-align:left;
+}
+
+.title{
+  font-size: 32px;
+}
+
+.edit-input{
+  display: block;
+  margin: 0 auto 15px auto;
+  padding: 0 5px;
+  width: 450px;
+  height: 25px;
+  line-height: 25px;
+}
+
+.comment-textarea{
+  display: block;
+  width: 400px;
+  height: 200px;
+  margin: 15px auto;
+}
+.create-post-btn{
+  display: inline-block;
+  margin-bottom: 15px;
+}
+
+.new-post-form label{
+  display: block;
+  margin-bottom: 15px;
+}
+
+.blog-page{
+  text-align:left;
+}
+
+.button-margin-r{margin-right: 15px;}
+
+.comments{
+  list-style:none;
+  width: 800px;
+  margin: 0 auto 20px auto;
+  padding: 0;
+}
+
+.comments li{
+  margin-bottom: 15px;
+  border: 1px solid grey;
+  padding: 10px;
+}
+
+.comments-title{
+  text-align: center;
+  font-weight: bold;
+  font-size: 18px;
+}
+
+.new-comment-form{text-align: center;}
+.back-button{
+  display: inline-block; margin-bottom: 15px;
+}
