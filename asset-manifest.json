@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-blog-app/static/css/main.a7160021.chunk.css",
+    "main.js": "/react-blog-app/static/js/main.d20ebd9a.chunk.js",
+    "main.js.map": "/react-blog-app/static/js/main.d20ebd9a.chunk.js.map",
+    "runtime~main.js": "/react-blog-app/static/js/runtime~main.fc2e26ff.js",
+    "runtime~main.js.map": "/react-blog-app/static/js/runtime~main.fc2e26ff.js.map",
+    "static/js/2.723b96dd.chunk.js": "/react-blog-app/static/js/2.723b96dd.chunk.js",
+    "static/js/2.723b96dd.chunk.js.map": "/react-blog-app/static/js/2.723b96dd.chunk.js.map",
+    "index.html": "/react-blog-app/index.html",
+    "precache-manifest.cb64453dcd7dc7420b69f0d79c54d10c.js": "/react-blog-app/precache-manifest.cb64453dcd7dc7420b69f0d79c54d10c.js",
+    "service-worker.js": "/react-blog-app/service-worker.js",
+    "static/css/main.a7160021.chunk.css.map": "/react-blog-app/static/css/main.a7160021.chunk.css.map"
+  }
+}
